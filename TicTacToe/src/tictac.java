@@ -28,9 +28,9 @@ import java.util.Scanner;
     	}
 	}
 
-	public void userInput(){
+	public void userInput(){m++;
 
-    	m++;
+    	
     	do{
 
 
